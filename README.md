@@ -189,6 +189,12 @@ Please review our security policy on how to report security vulnerabilities:
 
 Only the latest major version receives security fixes.
 
+### Disclaimer
+
+This tool has been created with the purpose to collect the Spanish postal codes. 
+
+> The source code has not been tested and so it is not recommended to be used in production environments 
+
 ### License
 
 The MIT License (MIT). Please see [LICENSE](./LICENSE) file for more information.
