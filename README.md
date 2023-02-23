@@ -93,7 +93,7 @@ This project has been built using the following tools:
 
 - [Dockerized PHP](https://github.com/fonil/dockerized-php) - A lighweight PHP development environment.
 - [Bash](https://www.gnu.org/software/bash/) - The GNU Project's shell.
-- [Make](https://www.gnu.org/software/make/) - GNU make utility to maintain groups of programs.
+- [Sublime Text](https://www.sublimetext.com/) - Text Editing, Done Right.
 
 ### Getting Started
 
